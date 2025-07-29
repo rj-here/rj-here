@@ -1,21 +1,14 @@
 # Rishi
-Greetings everyone! Welcome to the special repository here. You can find some simple stuff here.
-[LinkedIn](https://www.linkedin.com/in/rishi-j-04824026a/)
-[GitHub](https://github.com/rj-here)
-[My Page](https://rj-here.github.io/personalpage/index.html)
+Greetings everyone! Welcome to my GitHub page. As obvious, this comes from special repository. I'm just a guy trying to build experiences. I started GitHub only over this past summer, leveraging what I already know from classes partly, and in a way learning the rest on the spot. I've got a long mile to go, but I hope to create good experiences, and the best versions of them.
+---
+## My Relevant Links
+- [LinkedIn](https://www.linkedin.com/in/rishi-j-04824026a/)
+- [GitHub](https://github.com/rj-here)
+- [My Page](https://rj-here.github.io/personalpage/index.html)
 
 
 <!--
 **rj-here/rj-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Last updated: 29th July, 2025
 -->
