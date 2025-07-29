@@ -1,4 +1,9 @@
-## Hi there 👋
+# Rishi
+Greetings everyone! Welcome to the special repository here. You can find some simple stuff here.
+[LinkedIn](https://www.linkedin.com/in/rishi-j-04824026a/)
+[GitHub](https://github.com/rj-here)
+[My Page](https://rj-here.github.io/personalpage/index.html)
+
 
 <!--
 **rj-here/rj-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
